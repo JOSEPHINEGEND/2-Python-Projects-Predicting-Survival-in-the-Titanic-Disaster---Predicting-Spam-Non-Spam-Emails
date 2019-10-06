@@ -1,4 +1,4 @@
-# IP-WEEK-9:  USING KNN & NAIVES-BAYES CLASSIFIESR
+# IP-WEEK-9:  USING KNN & NAIVES-BAYES CLASSIFIERS ##
 # Two Python Projects:
 # 1. Predicting Survival in the Titanic Disaster.
 # 2. Predicting whether an email is spam or ham.
