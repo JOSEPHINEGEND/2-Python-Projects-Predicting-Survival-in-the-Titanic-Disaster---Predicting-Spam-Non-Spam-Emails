@@ -1,11 +1,11 @@
-# IP-WEEK-9:  USING KNN & NAIVES-BAYES CLASSIFIERS ##
-# Two Python Projects:
-# 1. Predicting Survival in the Titanic Disaster.
-# 2. Predicting whether an email is spam or ham.
+## IP-WEEK-9:  USING KNN & NAIVE-BAYES CLASSIFIERS ##
+## Two Python Projects:
+## 1. Predicting Survival in the Titanic Disaster.
+## 2. Predicting whether an email is spam or ham.
 
-#### IP WEEK 8 DATA SCIENCE CORE, October, 2019
+## IP WEEK 9 DATA SCIENCE CORE, October, 2019
 
-#### By **Josephine Wanjiku**
+## By **Josephine Wanjiku**
 
 ## Description
 * The first project is a challange on Kaggle.com “Titanic: Machine Learning from Disaster” Competition.
