@@ -3,7 +3,7 @@
 ## 1. Predicting Survival in the Titanic Disaster.
 ## 2. Predicting whether an email is spam or ham.
 
-## IP WEEK 9 DATA SCIENCE CORE, October, 2019
+## Data Science Core, October, 2019
 
 ## By **Josephine Wanjiku**
 
